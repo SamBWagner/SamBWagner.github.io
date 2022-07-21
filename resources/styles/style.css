@@ -11,12 +11,13 @@ header {
 
 header h1 {
     text-align: center;
+    font-size: 4em;
 }
 
 header img {
     margin: auto;
     display: block;
-    width: 10em;
+    width: 18em;
     border-radius: 100%;
     position: relative;
 }
@@ -25,6 +26,7 @@ header p {
     text-align: center;
     position: relative;
     margin: auto;
+    font-size: 2em;
 }
 
 footer {
@@ -33,7 +35,7 @@ footer {
     margin: auto;
     text-align: center;
 
-    font-size: 0.9em;
+    font-size: 1.5em;
     font-weight: lighter;
 }
 
